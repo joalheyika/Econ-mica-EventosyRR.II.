@@ -10,5 +10,5 @@ EM - Economovies
 Eplus - Económica+
 CN - Chocolatada Navideña
 AV - Actividad Vacacional
-EW - EconómicaWeen
+EW - EconómicaWeen.
 
